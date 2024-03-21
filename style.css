@@ -105,54 +105,32 @@ aside > h2{
 #android{
     background-color: #025940;
     padding: 15px;
-    height: 320px;
-    position: relative;
-    margin-bottom: 10px;
-}
-
-#android > iframe{
-    position: absolute;
-    width: 96%;
-    height: 90%;
-}
-
-#rodape{
-    padding: 5px;
-    border-radius: 10px 10px 0px 0px;
-    background-color: #06a128;
-
-}
-
-footer > #rodape > p{
-    margin: 0px;
-}
-
-#lista{
-    position: relative;
-    left: 240px;
-    bottom: 145px;
-    
-}
-
-footer > p {
-    padding: 10px;
 }
 
 footer{
-    border-radius: 20px 10px 0px 0px;
-    height: 200px;
     background-color: #a5d8a4;
-}
-
-#final{
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 10px;
     padding: 10px;
-    background-color: #a5d8a4;
+    position: relative;
+    top: 20px;
+
 }
 
-#end{
-    padding: 1px;
+footer > ul{
+    list-style-position: inside;
+    columns: 2;
+}
+
+footer > h3{
+    background-color: #03A64A;
+    color: white;
+    padding: 5px;
+    margin: -10px -10px 0px -10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#rodape{
     text-align: center;
-    background-color: #025940;
+    background-color: #a5d8a4;
 }
 
