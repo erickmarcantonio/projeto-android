@@ -116,11 +116,6 @@ footer{
 
 }
 
-footer > ul{
-    list-style-position: inside;
-    columns: 2;
-}
-
 footer > h3{
     background-color: #03A64A;
     color: white;
@@ -128,6 +123,7 @@ footer > h3{
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
 }
+
 
 #rodape{
     text-align: center;
